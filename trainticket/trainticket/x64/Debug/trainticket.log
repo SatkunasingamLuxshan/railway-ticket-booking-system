@@ -1,0 +1,54 @@
+﻿  No way to resolve conflict between "System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" and "System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51". Choosing "System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" arbitrarily.
+  Consider app.config remapping of assembly "System.Buffers, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" from Version "4.0.2.0" [] to Version "4.0.3.0" [C:\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\System.Buffers.dll] to solve conflict and get rid of warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2081,5): warning MSB3276: Found conflicts between different versions of the same dependent assembly. Please set the "AutoGenerateBindingRedirects" property to true in the project file. For more information, see http://go.microsoft.com/fwlink/?LinkId=294190.
+  MyForm.cpp
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1579,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1706,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1776,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MyForm1.cpp
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm1.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1579,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1706,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1776,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm1.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm3.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm5.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm6.h(120,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(458,19): warning C4101: 'myReader': unreferenced local variable
+  MyForm2.cpp
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm3.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1579,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1706,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1776,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm5.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm6.h(120,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm2.h(458,19): warning C4101: 'myReader': unreferenced local variable
+  MyForm3.cpp
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm3.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1579,19): warning C4101: 'myReader': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1706,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1776,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm.h(1827,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MyForm4.cpp
+  MyForm5.cpp
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm5.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm6.h(120,20): warning C4101: 'myReader': unreferenced local variable
+  MyForm6.cpp
+C:\Users\HP\Desktop\ict17.18.036\trainticket\trainticket\MyForm6.h(120,20): warning C4101: 'myReader': unreferenced local variable
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  trainticket.vcxproj -> C:\Users\HP\Desktop\ict17.18.036\trainticket\x64\Debug\trainticket.exe
